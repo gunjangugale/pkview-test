@@ -1,0 +1,7 @@
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Messages\bin\Debug\SasJobs.Messages.dll
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Messages\bin\Debug\SasJobs.Messages.pdb
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Messages\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Messages\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Messages\obj\Debug\SasJobs.Messages.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Messages\obj\Debug\SasJobs.Messages.dll
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Messages\obj\Debug\SasJobs.Messages.pdb

@@ -1,0 +1,9 @@
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Bridge\bin\Debug\SasJobs.Bridge.dll
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Bridge\bin\Debug\SasJobs.Bridge.pdb
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Bridge\bin\Debug\Interop.SAS.dll
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Bridge\obj\Debug\SasJobs.Bridge.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Bridge\obj\Debug\Interop.SAS.dll
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Bridge\obj\Debug\Interop.SASObjectManager.dll
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Bridge\obj\Debug\SasJobs.Bridge.csproj.ResolveComReference.cache
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Bridge\obj\Debug\SasJobs.Bridge.dll
+C:\Users\Peter\Downloads\PKView-master\PKView-master\SasJobs.Bridge\obj\Debug\SasJobs.Bridge.pdb
